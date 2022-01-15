@@ -1,0 +1,18 @@
+body {
+    background-color: #f1f1f1;
+}
+#myNews button {
+    font-size: xx-large;
+    font-weight: bold;
+    margin-bottom: 15px;
+    font-family: 'Lobster', cursive;
+}
+#search {
+    border-radius: 5px;
+}
+.loading {
+    font-size: x-large;
+    font-weight: bold;
+    color: cadetblue;
+    margin-top: 20%;
+}
